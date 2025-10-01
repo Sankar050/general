@@ -6,7 +6,7 @@ salesRecord,Sub-Saharan Africa,Sao Tome and Principe,Fruits,Online,C,2822-09-22,
 salesRecord,Sub-Saharan Africa,Rwanda,Office Supplies,Offline,L,2022-09-29,115456712,2022-09-29,5062,651.21,524.96,3296425.02,2657347.52,639077.5
 salesRecord,Australia and Oceania,Solomon Islands,Baby Food,Online,C,2022-09-20,547995746,2022-09-30,2974,255.28,159.42,759202.72,474115.08,285087.64
 salesRecord,Sub-Saharan Africa,Angola,Household,Offline,M,2022-10-01,135425221,2022-10-01,4187,668.27,502.54,2798046.49,2104134.98,693911.51
-salesRecord,Sub-Saharan Africa,Burkina Faso,Vegetables,Online,H,111102-10-2022,871543967,2022-10-02,8082,154.06,90.93,1245112.92,734896.26,510216.66
+salesRecord,Sub-Saharan Africa,Burkina Faso,Vegetables,Online,H,02-10-2022,871543967,2022-10-02,8082,154.06,90.93,1245112.92,734896.26,510216.66
 salesRecord,Sub-Saharan Africa,Republic of the Congo,Personal Care,Offline,M,2022-10-03,770463311,2022-10-03,6070,81.73,56.67,496101.1,343986.9,152114.2
 salesRecord,Sub-Saharan Africa,Senegal,Cereal,Online,H,2022-10-04,616607081,2022-10-04,6593,205.7,117.11,1356180.1,772106.23,584073.87
 salesRecord,Asia,Kyrgyzstan,Vegetables,Online,H,2022-10-05,814711606,2022-10-05,124,154.06,90.93,19103.44,11275.32,7828.12
@@ -99,3 +99,4 @@ salesRecord,Asia,Malaysia,Fruits,Offline,L,2022-12-30,810711038,2022-12-30,6267,
 salesRecord,Sub-Saharan Africa,Sierra Leone,Vegetables,Offline,C,2022-12-31,728815257,2022-12-31,1485,154.06,90.93,228779.1,135031.05,93748.05
 salesRecord,North America,Mexico,Personal Care,Offline,M,2023-01-01,559427106,2023-01-01,5767,81.73,56.67,471336.91,326815.89,144521.02
 salesRecord,Sub-Saharan Africa,Mozambique,Household,Offline,L,2023-01-02,665095412,2023-01-02,5367,668.27,502.54,3586605.09,2697132.18,889472.91
+
